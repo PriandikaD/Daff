@@ -16,7 +16,8 @@
             </div>
             <div
                 style="
-                    color:#dda668">
+                    background:#3b7e9d;
+                    color:#dda668;">
             <h1
                 style="
                     display: flex;
